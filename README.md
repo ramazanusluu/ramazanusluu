@@ -1,6 +1,6 @@
 # <h1 align="center"> Hi there I'm Ramazan 👋 </h1>
 
-## <p align="center"> Jr.Front-End Developer | Computer Engineering Student </p>
+## <p align="center"> Jr.Front-End Developer</p>
    <br />
 
 ### Reach Out To Me
